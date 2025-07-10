@@ -57,6 +57,16 @@ Deployment: Streamlit
 
 ## Screenshots and Guide
 
+# Individual Entry
+![image](https://github.com/user-attachments/assets/349b57d8-c8ab-4033-a757-129a0465943a)
+- Select the Individual Entry and then proceed filling the required data
+- once filled click on the predict to generate the predicted salary
+
+
+# Bulk Entry
+![image](https://github.com/user-attachments/assets/bc2a503f-e283-4eb4-b7c1-9f931e6e12d1)
+- Select the Bulk entry, to upload the data in CSV/Excel format.
+- Once the file is uploaded it will generate the output, we will be able to view it and download it as well.
 
 
 ## Contact
